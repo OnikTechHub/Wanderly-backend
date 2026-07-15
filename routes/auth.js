@@ -43,7 +43,7 @@ router.post("/register", (req, res) => {
     res.status(201).json({ id: user.id, name: user.name, email: user.email });
   } catch (err) {
     console.error(err);
-    res.status(500).json({ error: "Something went wrong. Please try again." });
+    res.status(500).json({ error: "DEBUG: " + err.message, stack: err.stack });
   }
 });
 
@@ -64,7 +64,7 @@ router.post("/login", (req, res) => {
     res.json({ id: user.id, name: user.name, email: user.email });
   } catch (err) {
     console.error(err);
-    res.status(500).json({ error: "Something went wrong. Please try again." });
+    res.status(500).json({ error: "DEBUG: " + err.message, stack: err.stack });
   }
 });
 
