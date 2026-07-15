@@ -1,0 +1,30 @@
+[
+  {
+    "id": "u-demo-001",
+    "name": "Demo Explorer",
+    "email": "demo@wanderly.com",
+    "passwordHash": "$2b$10$4O5jjIa4SxCNP.o244Dk6eoDnzsh0znYH8aekHwEQLzH0HCJJBFue",
+    "createdAt": "2026-01-05T09:00:00.000Z"
+  },
+  {
+    "id": "u-3e303ffa-8562-4ad2-b3a9-8ec7252c55e2",
+    "name": "Onik Das",
+    "email": "onikdas.dev@gmail.com",
+    "passwordHash": "$2a$10$UrKSpRU4U5XQWLIdjHi2Q.aYuwl6zELMg/rrCdxRpsBIWYcJih4eW",
+    "createdAt": "2026-07-15T07:54:12.356Z"
+  },
+  {
+    "id": "u-df5c14b2-02b5-4c3f-9cba-e8a750596e38",
+    "name": "Arnob Das",
+    "email": "arnobdas@gmail.com",
+    "passwordHash": "$2a$10$hGyHehCXEtb0tLQUhpX.BeYaluK7tamCNBa1uYWGbjyc53/2pjMEC",
+    "createdAt": "2026-07-15T07:56:41.051Z"
+  },
+  {
+    "id": "u-3e6e52a5-e7b6-4da6-9357-34cbfc5869ba",
+    "name": "Onik Das",
+    "email": "onikdas@gmail.com",
+    "passwordHash": "$2a$10$Xq.egon5wBA3pKIiGQ/Fru9edD0XdAv6hgC8u5GHeDMvXQWEV3sja",
+    "createdAt": "2026-07-15T08:22:10.617Z"
+  }
+]

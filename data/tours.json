@@ -1,0 +1,620 @@
+[
+  {
+    "id": "t-001",
+    "title": "Annapurna Base Camp Trek",
+    "shortDescription": "A classic Himalayan trek through rhododendron forests to the foot of Annapurna I.",
+    "fullDescription": "Walk through terraced villages, dense rhododendron forests, and high alpine meadows on the way to Annapurna Base Camp at 4,130m. This trek is renowned for its dramatic close-up views of Annapurna I, Machapuchare (Fishtail), and Hiunchuli, all rising directly above the base camp bowl. Along the way you'll pass through Gurung and Magar villages, cross suspension bridges over glacial rivers, and warm up each evening in cozy teahouses with home-cooked meals.",
+    "price": 890,
+    "date": "2026-10-12",
+    "rating": 4.8,
+    "location": "Annapurna Region, Nepal",
+    "category": "Mountain",
+    "duration": "11 days / 10 nights",
+    "groupSize": "Up to 10 people",
+    "images": [
+      "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1200&q=80",
+      "https://images.unsplash.com/photo-1516939884455-1445c8652f83?w=1200&q=80",
+      "https://images.unsplash.com/photo-1600100397608-f00a4f6c6f43?w=1200&q=80"
+    ],
+    "highlights": [
+      "Sunrise views over Annapurna Sanctuary",
+      "Overnight in traditional Gurung villages",
+      "Natural hot springs at Jhinu Danda",
+      "Experienced local trekking guide"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrive in Pokhara",
+        "detail": "Transfer from Kathmandu, gear check and briefing."
+      },
+      {
+        "day": 2,
+        "title": "Pokhara to Ghandruk",
+        "detail": "Drive and short trek into the first Gurung village."
+      },
+      {
+        "day": 5,
+        "title": "Reach Annapurna Base Camp",
+        "detail": "Trek through Machapuchare Base Camp to ABC for sunset."
+      },
+      {
+        "day": 11,
+        "title": "Return to Pokhara",
+        "detail": "Final descent and celebration dinner."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-10T08:00:00.000Z"
+  },
+  {
+    "id": "t-002",
+    "title": "Santorini Sunset Sailing Escape",
+    "shortDescription": "Catamaran cruise around the caldera with swimming stops and a volcano sunset.",
+    "fullDescription": "Sail the volcanic caldera of Santorini aboard a private catamaran, stopping at the Red Beach and hot springs of Palea Kameni for a swim. As the afternoon fades, anchor near the caldera cliffs to watch one of the most famous sunsets in the world while enjoying a barbecue dinner prepared onboard by the crew. Unlimited local wine and soft drinks are included throughout the day.",
+    "price": 145,
+    "date": "2026-08-20",
+    "rating": 4.9,
+    "location": "Santorini, Greece",
+    "category": "Beach",
+    "duration": "1 day",
+    "groupSize": "Up to 20 people",
+    "images": [
+      "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&q=80",
+      "https://images.unsplash.com/photo-1533105045747-b17aebbc1211?w=1200&q=80"
+    ],
+    "highlights": [
+      "Swim at Red Beach and hot springs",
+      "Onboard BBQ dinner with local wine",
+      "Caldera sunset from the water",
+      "Small group, private catamaran"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Full Day Cruise",
+        "detail": "Boarding at Vlychada Marina, swim stops, sunset dinner, return by night."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-11T08:00:00.000Z"
+  },
+  {
+    "id": "t-003",
+    "title": "Kyoto Temples & Bamboo Grove Walk",
+    "shortDescription": "A guided cultural day through Arashiyama's bamboo groves and historic temples.",
+    "fullDescription": "Explore the quiet paths of the Arashiyama Bamboo Grove before the crowds arrive, then visit Tenryu-ji Temple's Zen garden, a UNESCO World Heritage Site. Continue to Fushimi Inari Shrine to walk beneath thousands of vermilion torii gates winding up the mountainside. The day ends with a traditional tea ceremony led by a local tea master.",
+    "price": 120,
+    "date": "2026-11-03",
+    "rating": 4.7,
+    "location": "Kyoto, Japan",
+    "category": "Cultural",
+    "duration": "1 day",
+    "groupSize": "Up to 12 people",
+    "images": [
+      "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200&q=80",
+      "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=1200&q=80",
+      "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=1200&q=80"
+    ],
+    "highlights": [
+      "Early access to Arashiyama Bamboo Grove",
+      "Fushimi Inari torii gate walk",
+      "Traditional tea ceremony",
+      "English-speaking local guide"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kyoto Highlights",
+        "detail": "Bamboo grove, Tenryu-ji, Fushimi Inari, tea ceremony."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-12T08:00:00.000Z"
+  },
+  {
+    "id": "t-004",
+    "title": "Sahara Desert Camel Trek & Stargazing",
+    "shortDescription": "Ride camels into the dunes of Merzouga and sleep under the stars in a Berber camp.",
+    "fullDescription": "Depart from Merzouga at sunset and ride camels deep into the Erg Chebbi dunes, some of the tallest in Morocco. Arrive at a traditional Berber camp for a home-cooked tagine dinner around the fire, complete with local music. After dark, an astronomy guide points out constellations rarely visible from cities. Wake before dawn to watch the sunrise paint the dunes gold.",
+    "price": 95,
+    "date": "2026-09-15",
+    "rating": 4.6,
+    "location": "Merzouga, Morocco",
+    "category": "Desert",
+    "duration": "2 days / 1 night",
+    "groupSize": "Up to 15 people",
+    "images": [
+      "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=80",
+      "https://images.unsplash.com/photo-1509023464722-18d996393ca8?w=1200&q=80",
+      "https://images.unsplash.com/photo-1451337516015-6b6e9a44a8a3?w=1200&q=80"
+    ],
+    "highlights": [
+      "Camel trek into Erg Chebbi dunes",
+      "Berber camp with live music",
+      "Guided stargazing session",
+      "Sunrise over the Sahara"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Camel Trek & Camp",
+        "detail": "Sunset camel ride, dinner, and music at Berber camp."
+      },
+      {
+        "day": 2,
+        "title": "Sunrise & Return",
+        "detail": "Dune sunrise walk, breakfast, return transfer to Merzouga."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-13T08:00:00.000Z"
+  },
+  {
+    "id": "t-005",
+    "title": "Amazon Rainforest Wildlife Expedition",
+    "shortDescription": "Canoe through the flooded forest and spot pink dolphins, caimans, and macaws.",
+    "fullDescription": "Stay in an eco-lodge deep in the Peruvian Amazon and explore by canoe and on foot with an indigenous naturalist guide. Spot pink river dolphins, caimans, and troops of squirrel monkeys, and climb a 30-meter canopy tower for sunrise views over the treetops. Evening night-walks reveal tarantulas, tree frogs, and other nocturnal residents of the rainforest.",
+    "price": 610,
+    "date": "2026-07-28",
+    "rating": 4.9,
+    "location": "Tambopata, Peru",
+    "category": "Forest",
+    "duration": "5 days / 4 nights",
+    "groupSize": "Up to 8 people",
+    "images": [
+      "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1200&q=80",
+      "https://images.unsplash.com/photo-1440342359743-84fcb8c21f21?w=1200&q=80",
+      "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1200&q=80"
+    ],
+    "highlights": [
+      "Canopy tower sunrise",
+      "Pink river dolphin sighting",
+      "Guided night walk",
+      "Indigenous naturalist guides"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Lodge Transfer",
+        "detail": "Boat transfer upriver to the eco-lodge."
+      },
+      {
+        "day": 3,
+        "title": "Canopy Tower",
+        "detail": "Pre-dawn climb for sunrise birdwatching."
+      },
+      {
+        "day": 5,
+        "title": "Departure",
+        "detail": "Morning wildlife walk, return transfer."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-14T08:00:00.000Z"
+  },
+  {
+    "id": "t-006",
+    "title": "Swiss Alps Via Ferrata & Glacier Hike",
+    "shortDescription": "Climb a secured mountain route and cross a glacier with certified alpine guides.",
+    "fullDescription": "Test your nerve on a via ferrata route above Grindelwald with panoramic views of the Eiger North Face, then rope up for a guided walk across the Upper Grindelwald Glacier. All climbing gear, harnesses, and crampons are provided, along with certified IFMGA mountain guides. The tour finishes with fondue at a mountain hut overlooking the valley.",
+    "price": 275,
+    "date": "2026-08-05",
+    "rating": 4.8,
+    "location": "Grindelwald, Switzerland",
+    "category": "Mountain",
+    "duration": "2 days / 1 night",
+    "groupSize": "Up to 6 people",
+    "images": [
+      "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=1200&q=80",
+      "https://images.unsplash.com/photo-1544198365-f5d60b6d8190?w=1200&q=80",
+      "https://images.unsplash.com/photo-1499591934245-40b55745b905?w=1200&q=80"
+    ],
+    "highlights": [
+      "Via ferrata with Eiger views",
+      "Guided glacier crossing",
+      "IFMGA certified guides",
+      "Mountain hut fondue dinner"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Via Ferrata Ascent",
+        "detail": "Full safety briefing, climb, overnight at mountain hut."
+      },
+      {
+        "day": 2,
+        "title": "Glacier Crossing",
+        "detail": "Roped glacier walk and descent to Grindelwald."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-15T08:00:00.000Z"
+  },
+  {
+    "id": "t-007",
+    "title": "Bali Rice Terrace & Temple Cycling Tour",
+    "shortDescription": "Cycle downhill through Ubud's jungle roads, rice paddies, and village temples.",
+    "fullDescription": "Start at a highland village near Kintamani and coast downhill through winding jungle roads, active rice paddies, and traditional Balinese villages. Stop at a family-run coffee plantation to sample luwak coffee and at a centuries-old temple still used for daily offerings. The route is mostly downhill and suitable for beginner riders, with a support van following throughout.",
+    "price": 58,
+    "date": "2026-09-02",
+    "rating": 4.5,
+    "location": "Ubud, Bali, Indonesia",
+    "category": "Cultural",
+    "duration": "1 day",
+    "groupSize": "Up to 14 people",
+    "images": [
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=1200&q=80",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=1200&q=80",
+      "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=1200&q=80"
+    ],
+    "highlights": [
+      "Downhill jungle cycling route",
+      "Traditional coffee plantation stop",
+      "Village temple visit",
+      "Beginner-friendly, support van included"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kintamani to Ubud",
+        "detail": "Cycle through rice terraces, coffee farm, and temple."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-16T08:00:00.000Z"
+  },
+  {
+    "id": "t-008",
+    "title": "Great Barrier Reef Snorkel & Sail",
+    "shortDescription": "Full-day sailing trip to the outer reef with snorkeling and marine biologist talks.",
+    "fullDescription": "Sail out to the outer edge of the Great Barrier Reef aboard a modern catamaran for two snorkel stops in crystal-clear water among coral gardens and reef fish. A marine biologist joins every trip to give a short reef-ecology talk and point out highlights like clownfish, giant clams, and reef sharks. Lunch, snorkel gear, and stinger suits are all included.",
+    "price": 189,
+    "date": "2026-07-19",
+    "rating": 4.7,
+    "location": "Cairns, Australia",
+    "category": "Beach",
+    "duration": "1 day",
+    "groupSize": "Up to 40 people",
+    "images": [
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&q=80",
+      "https://images.unsplash.com/photo-1546026423-cc4642628d2b?w=1200&q=80",
+      "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=1200&q=80"
+    ],
+    "highlights": [
+      "Two outer-reef snorkel stops",
+      "Onboard marine biologist",
+      "Buffet lunch included",
+      "Stinger suits and gear provided"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Reef Day Trip",
+        "detail": "Morning departure, two snorkel sessions, lunch, afternoon return."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-17T08:00:00.000Z"
+  },
+  {
+    "id": "t-009",
+    "title": "Icelandic Ring Road Northern Lights Tour",
+    "shortDescription": "Chase the aurora borealis while touring waterfalls, glaciers, and black sand beaches.",
+    "fullDescription": "Circle a section of Iceland's Ring Road, visiting Seljalandsfoss and Sk\u00f3gafoss waterfalls, the black sand beach at Reynisfjara, and J\u00f6kuls\u00e1rl\u00f3n glacier lagoon where icebergs drift out to sea. Each evening, weather permitting, your guide tracks aurora forecasts and drives to the best viewing spots away from light pollution to watch the Northern Lights.",
+    "price": 720,
+    "date": "2026-11-20",
+    "rating": 4.9,
+    "location": "South Iceland",
+    "category": "Mountain",
+    "duration": "6 days / 5 nights",
+    "groupSize": "Up to 12 people",
+    "images": [
+      "https://images.unsplash.com/photo-1494783367193-149034c05e8f?w=1200&q=80",
+      "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=1200&q=80",
+      "https://images.unsplash.com/photo-1483347756197-71ef80e95f73?w=1200&q=80"
+    ],
+    "highlights": [
+      "J\u00f6kuls\u00e1rl\u00f3n glacier lagoon",
+      "Nightly aurora chasing",
+      "Reynisfjara black sand beach",
+      "Small group minibus tour"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Reykjavik to South Coast",
+        "detail": "Seljalandsfoss and Sk\u00f3gafoss waterfalls."
+      },
+      {
+        "day": 3,
+        "title": "Glacier Lagoon",
+        "detail": "J\u00f6kuls\u00e1rl\u00f3n boat tour among icebergs."
+      },
+      {
+        "day": 6,
+        "title": "Return to Reykjavik",
+        "detail": "Final aurora attempt and drive back."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-18T08:00:00.000Z"
+  },
+  {
+    "id": "t-010",
+    "title": "Marrakech Medina Food & Souk Tour",
+    "shortDescription": "A guided evening food crawl through the alleys and stalls of the old medina.",
+    "fullDescription": "Weave through the narrow lanes of Marrakech's medina with a local food guide, tasting fresh orange juice, msemen flatbread, grilled brochettes, and mint tea at family-run stalls that don't appear in guidebooks. The tour also stops at spice merchants and leather souks, ending at Jemaa el-Fnaa square as the night market comes alive with performers and food stands.",
+    "price": 65,
+    "date": "2026-10-01",
+    "rating": 4.6,
+    "location": "Marrakech, Morocco",
+    "category": "Cultural",
+    "duration": "1 day",
+    "groupSize": "Up to 10 people",
+    "images": [
+      "https://images.unsplash.com/photo-1489493887464-892be6d1daae?w=1200&q=80",
+      "https://images.unsplash.com/photo-1517821362941-f2a2b767dc59?w=1200&q=80",
+      "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80"
+    ],
+    "highlights": [
+      "Six tastings from local stalls",
+      "Spice and leather souk visit",
+      "Jemaa el-Fnaa night market",
+      "Small group with local guide"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Evening Food Crawl",
+        "detail": "Medina alleys, souks, and Jemaa el-Fnaa square."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-19T08:00:00.000Z"
+  },
+  {
+    "id": "t-011",
+    "title": "Patagonia Torres del Paine Trek",
+    "shortDescription": "Trek the W Circuit past granite towers, glaciers, and turquoise lakes.",
+    "fullDescription": "Hike the classic W Circuit through Torres del Paine National Park, staying in mountain refugios along the way. Highlights include the sunrise view of the granite Torres towers, the French Valley with hanging glaciers on both sides, and Grey Glacier, which can also be viewed up close by boat. Strong winds and changeable weather are part of the Patagonian experience, and guides carry emergency gear throughout.",
+    "price": 980,
+    "date": "2026-12-08",
+    "rating": 4.9,
+    "location": "Torres del Paine, Chile",
+    "category": "Mountain",
+    "duration": "8 days / 7 nights",
+    "groupSize": "Up to 10 people",
+    "images": [
+      "https://images.unsplash.com/photo-1520962880247-cfaf541c8724?w=1200&q=80",
+      "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=80",
+      "https://images.unsplash.com/photo-1478827387698-1527781a4887?w=1200&q=80"
+    ],
+    "highlights": [
+      "Sunrise at the Torres viewpoint",
+      "French Valley hanging glaciers",
+      "Grey Glacier boat excursion",
+      "Refugio accommodation with meals"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival at Torres del Paine",
+        "detail": "Park briefing and first refugio."
+      },
+      {
+        "day": 4,
+        "title": "French Valley",
+        "detail": "Full day hike with glacier views on both sides."
+      },
+      {
+        "day": 8,
+        "title": "Departure",
+        "detail": "Boat crossing and transfer out of the park."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-20T08:00:00.000Z"
+  },
+  {
+    "id": "t-012",
+    "title": "Maldives Overwater Villa Escape",
+    "shortDescription": "Relax in a private overwater villa with house reef snorkeling and sunset cruises.",
+    "fullDescription": "Unwind in an overwater villa with direct lagoon access, a private sundeck, and glass floor panels looking into the water below. The house reef just steps from your villa is home to reef sharks, turtles, and colorful coral gardens perfect for snorkeling any time of day. Optional add-ons include a sunset dolphin cruise and a private sandbank dinner.",
+    "price": 1450,
+    "date": "2026-08-30",
+    "rating": 5,
+    "location": "South Mal\u00e9 Atoll, Maldives",
+    "category": "Beach",
+    "duration": "4 days / 3 nights",
+    "groupSize": "Up to 2 people",
+    "images": [
+      "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=1200&q=80",
+      "https://images.unsplash.com/photo-1601918774946-25832a4be0d6?w=1200&q=80",
+      "https://images.unsplash.com/photo-1439130490301-25e322d88054?w=1200&q=80"
+    ],
+    "highlights": [
+      "Private overwater villa",
+      "House reef snorkeling",
+      "Sunset dolphin cruise (optional)",
+      "Seaplane transfer included"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Villa Check-in",
+        "detail": "Seaplane transfer and welcome drink."
+      },
+      {
+        "day": 3,
+        "title": "Sandbank Dinner",
+        "detail": "Private candlelit dinner on a sandbank."
+      },
+      {
+        "day": 4,
+        "title": "Departure",
+        "detail": "Final snorkel session and seaplane transfer."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-21T08:00:00.000Z"
+  },
+  {
+    "id": "t-013",
+    "title": "Costa Rica Cloud Forest Zipline & Wildlife",
+    "shortDescription": "Zipline through the Monteverde canopy and spot sloths, quetzals, and toucans.",
+    "fullDescription": "Glide across a dozen ziplines strung through the misty Monteverde Cloud Forest, including a Tarzan swing and a hanging bridge walk. A morning wildlife walk with a specialist guide focuses on spotting resplendent quetzals, three-toed sloths, and howler monkeys using spotting scopes. The forest's unique elevation creates a constant mist that keeps the canopy lush year-round.",
+    "price": 165,
+    "date": "2026-07-22",
+    "rating": 4.7,
+    "location": "Monteverde, Costa Rica",
+    "category": "Forest",
+    "duration": "2 days / 1 night",
+    "groupSize": "Up to 16 people",
+    "images": [
+      "https://images.unsplash.com/photo-1518602164578-cd0074062767?w=1200&q=80",
+      "https://images.unsplash.com/photo-1502085026328-3ac1898f5c25?w=1200&q=80",
+      "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=80"
+    ],
+    "highlights": [
+      "12-line zipline canopy tour",
+      "Guided quetzal spotting walk",
+      "Hanging bridges through the mist",
+      "Sloth and monkey sightings"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Zipline Canopy Tour",
+        "detail": "Full zipline circuit and hanging bridges."
+      },
+      {
+        "day": 2,
+        "title": "Wildlife Walk",
+        "detail": "Early morning guided walk for birds and mammals."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-22T08:00:00.000Z"
+  },
+  {
+    "id": "t-014",
+    "title": "New York City Rooftop & Skyline Tour",
+    "shortDescription": "A guided evening walk through Manhattan's best rooftop views and food stops.",
+    "fullDescription": "Cross the Brooklyn Bridge at golden hour, ride to a rooftop bar overlooking the Manhattan skyline, and sample classic New York bites from a pizza-by-the-slice institution to a legendary bagel shop. The guide shares neighborhood history through Dumbo, the Lower East Side, and Chinatown before the night ends with skyline views from a rooftop terrace.",
+    "price": 89,
+    "date": "2026-09-10",
+    "rating": 4.5,
+    "location": "New York City, USA",
+    "category": "City",
+    "duration": "1 day",
+    "groupSize": "Up to 12 people",
+    "images": [
+      "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=1200&q=80",
+      "https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=1200&q=80",
+      "https://images.unsplash.com/photo-1522083165195-3424ed129620?w=1200&q=80"
+    ],
+    "highlights": [
+      "Brooklyn Bridge at golden hour",
+      "Rooftop skyline views",
+      "Three iconic NYC food stops",
+      "Local storyteller guide"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Evening Skyline Walk",
+        "detail": "Bridge crossing, food stops, rooftop finale."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-23T08:00:00.000Z"
+  },
+  {
+    "id": "t-015",
+    "title": "Norwegian Fjords Kayak & Camp",
+    "shortDescription": "Sea kayak between waterfalls and cliffs in Geirangerfjord, camping on the shore.",
+    "fullDescription": "Paddle a sea kayak along the still waters of Geirangerfjord, passing directly beneath the Seven Sisters waterfall and camping on a secluded shoreline beneath towering cliffs. Days are spent kayaking to nearby abandoned farmsteads clinging to the fjord walls, and nights are spent around a driftwood fire under the midnight sun in summer months.",
+    "price": 340,
+    "date": "2026-07-05",
+    "rating": 4.8,
+    "location": "Geirangerfjord, Norway",
+    "category": "Mountain",
+    "duration": "3 days / 2 nights",
+    "groupSize": "Up to 8 people",
+    "images": [
+      "https://images.unsplash.com/photo-1520769945061-0a448c463865?w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80",
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80"
+    ],
+    "highlights": [
+      "Kayak beneath Seven Sisters waterfall",
+      "Shoreline wild camping",
+      "Abandoned fjord farmstead visit",
+      "Midnight sun paddling (summer)"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Paddle to Camp",
+        "detail": "Kayak to first campsite beneath the cliffs."
+      },
+      {
+        "day": 2,
+        "title": "Waterfall & Farmstead",
+        "detail": "Paddle to Seven Sisters and old farmstead."
+      },
+      {
+        "day": 3,
+        "title": "Return",
+        "detail": "Morning paddle back to the trailhead."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-24T08:00:00.000Z"
+  },
+  {
+    "id": "t-016",
+    "title": "Petra by Night & Wadi Rum Desert Camp",
+    "shortDescription": "Walk the candlelit Siq to Petra's Treasury, then camp under Wadi Rum's stars.",
+    "fullDescription": "Enter Petra through the narrow Siq canyon lit by over a thousand candles, arriving at the Treasury for traditional Bedouin music beneath the stars. The following day, a 4x4 tour crosses the red dunes and rock formations of Wadi Rum, stopping at natural rock bridges and ancient petroglyphs before an overnight stay in a Bedouin desert camp.",
+    "price": 210,
+    "date": "2026-10-25",
+    "rating": 4.8,
+    "location": "Petra & Wadi Rum, Jordan",
+    "category": "Desert",
+    "duration": "3 days / 2 nights",
+    "groupSize": "Up to 14 people",
+    "images": [
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1200&q=80",
+      "https://images.unsplash.com/photo-1580619305218-8423a7ef79b4?w=1200&q=80",
+      "https://images.unsplash.com/photo-1451337516015-6b6e9a44a8a3?w=1200&q=80"
+    ],
+    "highlights": [
+      "Candlelit Petra by Night",
+      "4x4 Wadi Rum dune tour",
+      "Bedouin desert camp stay",
+      "Ancient petroglyph sites"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Petra by Night",
+        "detail": "Candlelit Siq walk to the Treasury."
+      },
+      {
+        "day": 2,
+        "title": "Wadi Rum 4x4 Tour",
+        "detail": "Dune driving and Bedouin camp overnight."
+      },
+      {
+        "day": 3,
+        "title": "Departure",
+        "detail": "Sunrise over the desert, transfer out."
+      }
+    ],
+    "createdBy": "u-demo-001",
+    "createdAt": "2026-01-25T08:00:00.000Z"
+  }
+]
