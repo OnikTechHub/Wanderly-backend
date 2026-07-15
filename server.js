@@ -7,8 +7,11 @@ const authRoutes = require("./routes/auth");
 const toursRoutes = require("./routes/tours");
 
 const app = express();
+app.set("trust proxy", 1);
 const PORT = process.env.PORT || 5000;
-const CORS_ORIGIN = process.env.CORS_ORIGIN || "http://localhost:3000";
+const CORS_ORIGIN = (process.env.CORS_ORIGIN || "http://localhost:3000")
+  .split(",")
+  .map((o) => o.trim());
 
 app.use(cors({ origin: CORS_ORIGIN, credentials: true }));
 app.use(express.json());

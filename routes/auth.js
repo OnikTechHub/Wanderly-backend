@@ -9,7 +9,8 @@ const router = express.Router();
 
 const COOKIE_OPTS = {
   httpOnly: true,
-  sameSite: "lax",
+  sameSite: process.env.NODE_ENV === "production" ? "none" : "lax",
+  secure: process.env.NODE_ENV === "production",
   path: "/",
   maxAge: 7 * 24 * 60 * 60 * 1000,
 };
@@ -68,7 +69,7 @@ router.post("/login", (req, res) => {
 });
 
 router.post("/logout", (req, res) => {
-  res.clearCookie(AUTH_COOKIE, { path: "/" });
+  res.clearCookie(AUTH_COOKIE, { path: "/", sameSite: COOKIE_OPTS.sameSite, secure: COOKIE_OPTS.secure });
   res.json({ ok: true });
 });
 
